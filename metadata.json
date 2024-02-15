@@ -2,5 +2,8 @@
     "name": "My Test Token",
     "symbol": "$TEST",
     "description": "https://doomertoken.xyz/",
-    "image": "https://bafkreiexzebqrwsggglme5fckflq22mf6l73w2rfzxuvpipvyaozceyumi.ipfs.nftstorage.link"
+    "image": "https://bafkreiexzebqrwsggglme5fckflq22mf6l73w2rfzxuvpipvyaozceyumi.ipfs.nftstorage.link",
+    "website": "https://developers.metaplex.com/token-metadata/token-standard",
+    "telegram": "https://developers.metaplex.com",
+    "twitter": "https://x.com/ySnaked?s=20"
 }
